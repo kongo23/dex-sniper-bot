@@ -1,4 +1,4 @@
-# dex-sniper-bot
+# DeX Sniper bot, buy low sell high
 
 # https://moonbotapp.com/
 
