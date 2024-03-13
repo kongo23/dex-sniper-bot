@@ -1,4 +1,6 @@
-# DeX Sniper bot, buy low sell high
+# DeX Sniper bot, buy tokens instantly on the lowest price, free to use
+
+An advanced bot is "trained" to get around most anti-bot protections
 
 # https://moonbotapp.com/
 
