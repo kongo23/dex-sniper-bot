@@ -1,4 +1,6 @@
-# DeX Sniper bot, buy tokens instantly on the lowest price, free to use
+# DeX Sniper bot, free to use
+
+##Buy tokens instantly on the lowest price
 
 An advanced bot is "trained" to get around most anti-bot protections
 
